@@ -58,3 +58,10 @@ Known issues:
 
 And that's pretty much it for now!
 Thanks for trying it and let me know how you like it!
+
+
+Download oscdimg from https://go.microsoft.com/fwlink/?linkid=2196127
+Once installed it should be in the path:
+```
+C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Deployment Tools\amd64\Oscdimg
+```
